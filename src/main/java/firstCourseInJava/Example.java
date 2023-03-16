@@ -1,4 +1,4 @@
-package aBeginnersGuide;
+package firstCourseInJava;
 /*
 * This is a simple Java program
 * Call this file Example.java*/

@@ -1,4 +1,4 @@
-package aBeginnersGuide;
+package firstCourseInJava;
 
 /**
  * Demonstrate a block of code

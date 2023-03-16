@@ -1,4 +1,4 @@
-package aBeginnersGuide;
+package firstCourseInJava;
 
 /**
  * Try this 1-2
